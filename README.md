@@ -4,7 +4,7 @@ Generate password of desired length which can help to create multiple dummy user
 
 # Installation
 
-`npm i password-generator --save`
+`npm i password-generator-deepanshoo --save`
 
 # Demo usage
 
